@@ -1,7 +1,8 @@
 # Author: Mubashir
 # Date: 13-04-25
 
-              #  Question: Python program to check whether a number is Prime or not?
+
+# 23. Python program to check whether a number is Prime or not?
               
               
 import math
