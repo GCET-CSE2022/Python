@@ -1,4 +1,7 @@
-# Python Program for Compound Interest
+# Author: Mubashir
+# Date: 13-04-25
+
+              # Question :  Python Program for compound interest?
 
 def compoundInterest(principle,rate,time) :
     amount =   principle * (1 + rate / 100) ** time
