@@ -1,7 +1,8 @@
 '''
 Author: Yaseen
 Date: 13.04.2025
-Purpose: Program to multiply the elements of a list and then divide the result by the size of the list and return the remainder
+
+Q21. Write a program to multiply the elements of a list and then divide the result by the size of the list and return the remainder
 '''
 
 L1 = []

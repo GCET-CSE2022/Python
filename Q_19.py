@@ -1,7 +1,8 @@
 '''
 Author: Yaseen  
 Date: 13.04.2025  
-Purpose: To calculate the power of a given number (n^p) using a loop  
+
+Q19. Write a program to calculate the power of a given number (n^p) using a loop  
 '''
 n = int(input("Enter the number: "))
 p = int(input("Enter the power: "))

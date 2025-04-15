@@ -1,7 +1,8 @@
 '''
 Author: Yaseen
 Date: 13.04.2025
-Purpose: Program to get the cube sum of first n natural numbers
+
+Q22. Write a program to get the cube sum of first n natural numbers
 '''
 
 n = int(input("Enter the number up to which cube sum is needed: "))

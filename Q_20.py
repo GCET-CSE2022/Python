@@ -1,7 +1,8 @@
 '''
 Author: Yaseen  
-Date: 13.04.2025  
-Purpose: To reverse a given string  
+Date: 13.04.2025 
+ 
+Q20. Write a program to reverse a given string  
 '''
 
 class Rev:
