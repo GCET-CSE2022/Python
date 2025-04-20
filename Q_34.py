@@ -1,6 +1,6 @@
 '''
 Author: Yaseen  
-Date: 13.04.2025  
+Date: 21.04.2025  
 
 Q34. Write a Python program to check whether the string is Symmetrical or
 Palindrome
