@@ -11,7 +11,7 @@ Dated: 21-04-2025
 def check_Vowel(str):
     vowels=set('aeiou')
     
-    s=set({})
+    s=set()
     
     for char in str:
         if char in vowels:
