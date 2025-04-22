@@ -1,4 +1,7 @@
-# Python Program to remove multiple elements in a list 
+# Author: Mubashir
+# Date: 13-04-25
+
+# 27. Remove multiple elements from a list in Python?
 
 List2 = [95,46,85,26,90,55,68,84,77,36,58]
 
