@@ -2,7 +2,7 @@
 Author: peermomin  
 Date: 23.04.2025  
 
-Q_33. Python program to find sum of squares of first n natural numbers.
+Q_35. Python program to find sum of squares of first n natural numbers.
 
 '''
 
