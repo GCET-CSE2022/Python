@@ -1,22 +1,10 @@
-## Author: peermomin
-## Date: 22-04-2025
+'''
+Author: peermomin  
+Date: 23.04.2025  
 
-## Python code to cheack if a number is palindrome.
+Q_33. Python program to find sum of squares of first n natural numbers.
 
-def is_palindrome(number):
-    # covert to string
-    num_str = str(number)
-    # check if string is equal to its reverse
-    return num_str == num_str[::-1]
-
-# get input from user
-number = int(input("Enter a number: "))
-if is_palindrome(number):
-    print("{} is a palindrome.\n".format(number))
-else:
-    print("{} is not a palindrome.\n".format(number))
-
-## Python program to find sum of squares of first n natural numbers 
+'''
 
 def sum_of_squares(n):
     total = 0
